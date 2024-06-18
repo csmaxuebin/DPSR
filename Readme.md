@@ -29,7 +29,7 @@ Operating Environment:Java with Intel Core i5 CPU 1.38 GHz and 16 GB RAM, runnin
 - **Window Repetition Rate (r)**: Examined in terms of overlap and impact on the results.
 
 
-# Python Files
+# Java Files
 
 1. **Main.java**:
 Acts as the entry point for the application, handling initial parameters and setting up the stream processing of edges using a sliding window mechanism. It reads edges from a file, manages them in a sliding window, and employs the `TopkGraphPattern` algorithm for processing graph patterns dynamically. This class handles the graph patterns dynamically using a reservoir-based approach to handle edge additions and deletions, adjusting for changes in graph structure over time .
