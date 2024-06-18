@@ -60,8 +60,8 @@ Implements the `Reservoir` interface for subgraphs. This class manages a collect
 - **YT and PT (F-Score)**: Figures (i) and (j) display a clear trend where the F-score improves as the privacy budget (ε) increases. This suggests that a larger budget allows for less noise to be introduced into the data, leading to better utility and accuracy in the frequent graph pattern analysis.
 - **YT and PT (RE)**: Figures (k) and (l) further support this by showing a decrease in RE as the privacy budget increases. This reduction in error is consistent with the assumption that higher budgets result in less noisy data.
 
-![输入图片说明](/imgs/2024-06-16/ptRhoSn9YP22ESx2.png)
-
+![输入图片说明](https://github.com/csmaxuebin/DPSR/blob/main/pic/fig1-1.jpg)
+![输入图片说明](https://github.com/csmaxuebin/DPSR/blob/main/pic/fig1-2.jpg)
 
 
 
